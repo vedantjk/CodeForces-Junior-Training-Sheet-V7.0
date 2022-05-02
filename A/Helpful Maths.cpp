@@ -21,4 +21,5 @@ int main() {
         cout<<s2[i]<<"+";
     }
     
-    return 
+    return 0
+ }
